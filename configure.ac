@@ -16,7 +16,6 @@ Components/Makefile
 Components/Converter/Makefile
 Components/Renderer/Makefile
 Components/Sources/Makefile
-po/Makefile
 etc/Makefile
 ])
 AC_OUTPUT
